@@ -6,9 +6,20 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 
 - **Langages :** Python, SQL
 - **Bibliothèques Python :** Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **Outils de Visualisation :** Tableau, Power BI
-- **Environnements :** Jupyter Notebook
+- **Outils de Visualisation :** Qlik
+- **Environnements :** Google Colab
 
 📁 Structure du Répertoire
-bash
+analyse-meteorologique/
+├── data/
+├── notebooks/
+├── scripts/
+├── visuals/
+├── README.md
+├── license
+├── .gitignore
+└── requirements.txt
+
 git clone https://github.com/manoliapinar/data-analysis-projects
+cd https://github.com/data-analysis-projects/analyse-meteorologique
+pip install -r requirements.txt
