@@ -11,5 +11,4 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 
 📁 Structure du Répertoire
 bash
-git clone (https://github.com/manoliapinar/data-analysis-projects)
-cd https://github.com/data-analysis-projects/analyse-meteorologique
+git clone https://github.com/manoliapinar/data-analysis-projects
