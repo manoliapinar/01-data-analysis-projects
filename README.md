@@ -21,6 +21,4 @@ Planification urbaine : Utiliser les données pour améliorer la planification d
 Prévision des événements : Développer des modèles pour anticiper les anomalies météorologiques.
 
 **Contact**
-N'hésitez pas à me contacter pour toute question ou collaboration :
-**LinkedIn** : (https://www.linkedin.com/in/manolia-pinar/)
-**Email** : (mailto:anoliapinar@gmail.com)
+N'hésitez pas à me contacter pour toute question via [LinkedIn](https://www.linkedin.com/in/manolia-pinar/) ou [Email](mailto:anoliapinar@gmail.com).
