@@ -10,4 +10,7 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 - **Environnements :** Jupyter Notebook
 
 📁 Structure du Répertoire
+bash
+git clone https://github.com/manolia-pinar/data-analysis-projects.git
+cd data-analysis-projects/analyse-meteorologique
 
