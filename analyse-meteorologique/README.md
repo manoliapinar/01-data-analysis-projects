@@ -2,7 +2,7 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 
 Ce projet consiste en une analyse des données météorologiques sur une période d'un an. L'objectif est d'identifier des tendances, des anomalies, et de fournir des insights pertinents pour comprendre les variations climatiques.
 
-🔧 Technologies et Outils Utilisés
+**🔧 Technologies et Outils Utilisés**
 
 - **Langages :** Python, SQL
 - **Bibliothèques Python :** Pandas, NumPy, Matplotlib, Seaborn, Plotly
@@ -10,15 +10,15 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 - **Environnements :** Google Colab
 
 📁 Structure du Répertoire
-analyse-meteorologique/
-├── data/
-├── notebooks/
-├── scripts/
-├── visuals/
-├── README.md
-├── license
-├── .gitignore
-└── requirements.txt
+- **analyse-meteorologique**
+- **data**
+- **notebooks**
+- **scripts**
+- **visuals**
+- **README.md**
+- **license**
+- **.gitignore**
+- **requirements.txt**
 
 git clone https://github.com/manoliapinar/data-analysis-projects
 cd https://github.com/data-analysis-projects/analyse-meteorologique
