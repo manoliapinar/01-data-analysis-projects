@@ -1,7 +1,7 @@
 # data-analysis-project
 
 **Projet d'analyse de données : Opérations aéroportuaires et impact météorologique**
-Ce projet se concentre sur l'analyse de la relation entre les conditions météorologiques et les opérations de vol, incluant les annulations et les détournements. En utilisant trois jeux de données — données de géolocalisation des aéroports, données des vols annulés et détournés en 2023, et données météorologiques par aéroport — ce projet vise à découvrir des insights sur la manière dont la météo affecte les performances des aéroports.
+Ce projet se concentre sur l'analyse de la relation entre les conditions météorologiques et les opérations de vol, incluant les annulations et les détournements. En utilisant trois jeux de données, ce projet vise à découvrir des insights sur la manière dont la météo affecte les performances des aéroports.
 
 **Les principales étapes de ce projet incluent :**
 Nettoyage et préparation des données
