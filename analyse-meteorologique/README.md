@@ -4,7 +4,7 @@ Ce projet consiste en une analyse des données météorologiques sur une périod
 
 **🔧 Technologies et Outils Utilisés**
 
-- **Langages :** Python, SQL
+- **Langages :** Python
 - **Bibliothèques Python :** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Outils de Visualisation :** Qlik
 - **Environnements :** Google Colab
